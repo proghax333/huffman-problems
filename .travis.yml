@@ -2,4 +2,4 @@ language: c
 compiler: gcc
 script:
   - make -C ./HW17Huffman1
-  - make -C ./HW18Huffman1
+  - make -C ./HW18Huffman2
